@@ -1,0 +1,3 @@
+Parses an access log and aggregates hit counts according to regex matchers, outputs comma-separated path and hit count.
+
+I used this to give a rough load profile to mimic in Jmeter. 
